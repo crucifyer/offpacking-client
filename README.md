@@ -18,7 +18,7 @@
 | - | - | - |
 | 고유번호 | seq | 숫자만 허용 |
 | 묶음번호 | bundle | 영문대문자, 숫자만 허용 |
-| 트래킹번호 | tracnkingno | 영문대문자, 숫자만 허용 |
+| 트래킹번호 | trackingno | 영문대문자, 숫자만 허용 |
  
 
 https://offpacking.kr/
